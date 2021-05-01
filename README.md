@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-- ☑ HMTL
+- ☑ HTML
 - ☑ CSS
 - ☑ JAVASCRIPT
 
